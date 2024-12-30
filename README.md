@@ -6,8 +6,8 @@
 
  ### 🚀 About Me ###
 
-My journey began in the construction industry as a Quality Control and Assurance Engineer, where I honed my analytical skills, precision, and dedication to delivering excellence.
-Today, I’m a Data Analyst with a strong passion for turning data into impactful insights that solve problems and improve business strategies. I apply those same principles to uncover trends, drive decisions, and add value through data analytics.
+I’m a Data Analyst with a strong passion for turning data into impactful insights that solve problems and improve business strategies. My journey began in the construction industry as a Quality Control and Assurance Engineer, where I honed my analytical skills, precision, and dedication to delivering excellence.
+Today,  I apply those same principles to uncover trends, drive decisions, and add value through data analytics.
 
 ---
 

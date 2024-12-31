@@ -1,6 +1,6 @@
 # Hi there!👋🏾 I'm Daniel #
 >
-> *I empower businesses with data-driven strategies that drive bold decisions and lasting impact.*
+ *I empower businesses with data-driven strategies that drive bold decisions and lasting impact.*
 
 ---
 

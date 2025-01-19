@@ -1,17 +1,12 @@
 # Hi there!👋🏾 I'm Daniel #
+
 *I empower businesses with data-driven strategies that drive bold decisions and lasting impact.*
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me ##
 
-I’m a Data Analyst with a strong passion for turning data into
-impactful insights that solve problems and improve business strategies.
-My journey began in the construction industry
-as a Quality Control and Assurance Engineer,
-where I honed my analytical skills, precision, and dedication to delivering excellence.
-Today, I apply those same principles to uncover trends, drive decisions,
-and add value through data analytics.
+I’m a Data Analyst with a strong passion for turning data into impactful insights that solve problems and improve business strategies. My journey began in the construction industry as a Quality Control and Assurance Engineer, where I honed my analytical skills, precision, and dedication to delivering excellence. Today, I apply those same principles to uncover trends, drive decisions, and add value through data analytics.
 
 ---
 
@@ -26,4 +21,5 @@ and add value through data analytics.
 ---
 
 🚀 **Let’s Connect**
+
 🌐 [LinkedIn](https://www.linkedin.com/in/daniel-oluwaluyi/)

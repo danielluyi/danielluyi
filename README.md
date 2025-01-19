@@ -6,7 +6,8 @@
 
 ## 🚀 About Me ##
 
-I’m a Data Analyst with a strong passion for turning data into impactful
+I’m a Data Analyst with a strong passion for
+turning data into impactful
 insights that solve problems and improve business strategies.
 My journey began in the construction industry
 as a Quality Control and Assurance Engineer,
@@ -18,11 +19,14 @@ add value through data analytics.
 
 ---
 
-🛠️ **Core Skills**: Tenacity, growth mindset, detail-oriented, and strong communication.
+🛠️ **Core Skills**: Tenacity, growth mindset, detail-oriented,
+and strong communication.
 
-📈 **Tech Tools**: Proficiency in Power BI, SQL, Python, and Excel.
+📈 **Tech Tools**: Proficiency in Power BI, SQL,
+Python, and Excel.
 
-💡 **Interests**: Business and Strategy, Life coaching, Music, Public speaking.
+💡 **Interests**: Business and Strategy,
+Life coaching, Music, Public speaking.
 
 🎓 **Currently**: A scholar in the MIT Emerging Talent Program.
 
